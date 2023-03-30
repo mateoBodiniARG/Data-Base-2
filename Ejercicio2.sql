@@ -6,7 +6,7 @@ CREATE TABLE provedor{
     nombre VARCHAR(30),
     direccion VARCHAR(70),
     telefono INT,
-    pagina-web VARCHAR(80)
+    paginaWeb VARCHAR(80)
 }
 
 CREATE TABLE productos{
